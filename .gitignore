@@ -1,0 +1,11 @@
+# Claves y secretos: nunca al repositorio
+.env
+secretos/
+
+# Python: carpetas que se generan solas
+__pycache__/
+.venv/
+
+# Archivos basura de Windows
+Thumbs.db
+desktop.ini
